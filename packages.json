@@ -14,5 +14,9 @@
     {
         "package": "motifmatchr",
         "url": "https://github.com/GreenleafLab/motifmatchr"
+    },
+    {
+        "package": "iheatmapr",
+        "url": "https://github.com/ropensci/iheatmapr"
     }
 ]
